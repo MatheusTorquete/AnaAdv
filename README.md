@@ -29,9 +29,7 @@ O site foi desenvolvido de forma modular, facilitando a personalização e a adi
 Contribuições para a melhoria do site são bem-vindas. Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
 
 
-## Licença
-
 © 2023 Ana Paula Advogada. Todos os direitos reservados.
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 
