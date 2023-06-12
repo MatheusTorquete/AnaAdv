@@ -12,21 +12,14 @@ O site consiste em três páginas principais:
 
 ## Hospedagem
 
-O site pode ser hospedado usando serviços de hospedagem gratuita, como o GitHub Pages. Isso permite que o site seja acessível publicamente através de um URL fornecido pelo GitHub.
+O site está hospeado no https://app.netlify.com/
+No momento está como https://anapaulaprimocena.netlify.app/
 
 ## Como Usar
 
 1. Faça o download dos arquivos do projeto.
 2. Abra o arquivo `index.html` em um navegador para acessar a página inicial.
 3. Navegue entre as páginas clicando nos links "Contato" e "Sobre" no menu de navegação.
-
-## Personalização
-
-O site foi desenvolvido de forma modular, facilitando a personalização e a adição de mais conteúdo, se necessário. Você pode editar os arquivos HTML existentes ou adicionar novas páginas, conforme necessário. Lembre-se de atualizar o menu de navegação em cada página para refletir as alterações.
-
-## Contribuição
-
-Contribuições para a melhoria do site são bem-vindas. Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
 
 
 © 2023 Ana Paula Advogada. Todos os direitos reservados.
