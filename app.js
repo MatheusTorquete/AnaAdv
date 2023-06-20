@@ -29,7 +29,7 @@ function enviarMensagem() {
   
     // Converte o array de contatos para formato JSON
     var contatosAtualizados = JSON.stringify(contatosAntigos);
-  
+          
     // Salva os contatos atualizados no localStorage
     localStorage.setItem("contatos", contatosAtualizados);
   
